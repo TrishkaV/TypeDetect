@@ -18,8 +18,10 @@ Available on **NuGet** ([here](https://www.nuget.org/packages/TrishkaV.TypeDetec
 ".IsText()" returns true for strings and chars.<br>
 ".IsTextNullable()" as before, including null values.<br><br>
 
----------------------------------
+Easily check if an object belongs to a kind as numerics, text, is a base type, is nullable and so on.<br>
 
+---------------------------------
+<img src="https://user-images.githubusercontent.com/96583994/231207718-9d01018f-023f-42ca-a5f1-c43e78a35284.png" width="650"><br><br>
 ---------------------------------
 
 <br><br>
