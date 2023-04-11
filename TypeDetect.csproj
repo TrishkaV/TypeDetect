@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>TrishkaV.TypeDetect</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>TrishkaV</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>Lightweight C# language extension to assess objects types, including nullables and objects mapped from database readers. Open source project at github.com/TrishkaV/TypeDetect</Description>
+    <Tags>Type detection, type system, type inspection, object type, object inspection, type validation, type inspection, type probe, type probing, type sense</Tags>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
+    <ProjectUrl>github.com/TrishkaV/TypeDetect</ProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="docs\readme.md" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
+</Project>
